@@ -1,9 +1,0 @@
-applications:
-- host: ravi-trafficsm
-  disk: 128M
-  name: ravi-trafficsm 
-  command: node app.js
-  path: .
-  domain: mybluemix.net
-  memory: 128M
-  instances: 1
